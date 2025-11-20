@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/go-dew/dew"
+	"github.com/MohammadBnei/dew"
 )
 
 // HelloAction represents the action of greeting someone.

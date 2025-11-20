@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-dew/dew"
+	"github.com/MohammadBnei/dew"
 )
 
 func TestMux_BasicCommand(t *testing.T) {

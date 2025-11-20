@@ -3,8 +3,8 @@ package handlers
 import (
 	"context"
 
-	"github.com/go-dew/dew/examples/authorization/commands/action"
-	"github.com/go-dew/dew/examples/authorization/commands/query"
+	"github.com/MohammadBnei/dew/examples/authorization/commands/action"
+	"github.com/MohammadBnei/dew/examples/authorization/commands/query"
 )
 
 // OrgHandler is a handler for organization commands.

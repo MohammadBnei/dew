@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/go-dew/dew"
+	"github.com/MohammadBnei/dew"
 )
 
 type userCtxKey struct{}

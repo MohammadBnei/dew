@@ -1,6 +1,6 @@
 package main
 
-import "github.com/go-dew/dew"
+import "github.com/MohammadBnei/dew"
 
 // Logger is an interface to log the command.
 type Logger interface {

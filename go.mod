@@ -1,3 +1,3 @@
-module github.com/go-dew/dew
+module github.com/MohammadBnei/dew
 
-go 1.20
+go 1.25
